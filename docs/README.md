@@ -20,10 +20,11 @@ This lab also expects that you have a Docker Hub account that you can use to pub
 
 Have on hand the following information:
 
-- **Edge device userid/password**
 - **Edge device hostname and ssh port** 
-- **IEAM console userid/password**
-- **IBM Edge Application Manager( IEAM ) URL**
+- **Edge device userid/password**
+- **IBM Common Services API URL (used with cli cloudctl)**
+- **IBM Edge Application Manager(IEAM) console userid/password**
+- **IEAM console url**
 - **Your Docker Hub ID (you can <a href="https://hub.docker.com/signup" target="_blank">create a temporary one</a> if you like)**
 
 <table align="center">
